@@ -10,3 +10,49 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+
+# React First Activity 🚀
+
+This is my **first React project** where I explored the basics of React including:
+
+- JSX
+- Components
+- Props
+- Basic State
+- Folder structure
+- Rendering UI dynamically
+
+## 🛠️ Tech Stack
+
+- React.js (via Vite or Create React App)
+- JavaScript
+- CSS
+
+## 📸 Preview
+
+![App Screenshot](./screenshot.png)
+
+*(Add a real screenshot of your app in the project folder)*
+
+## 💡 What I Learned
+
+- Creating and using functional components
+- Passing data using props
+- Managing simple state with `useState`
+- Basic project structure in React
+
+## 🔃 How to Run Locally
+
+```bash
+# Clone the repo
+git clone https://github.com/your-username/react-first-activity.git
+
+# Move to the project folder
+cd my-app
+
+# Install dependencies
+npm install
+
+# Start the development server
+npm run dev
