@@ -16,6 +16,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 This is my **first React project** where I explored the basics of React including:
 
+Live: https://react-first-activity.netlify.app/
 - JSX
 - Components
 - Props
